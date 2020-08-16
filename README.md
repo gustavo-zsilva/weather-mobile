@@ -1,2 +1,2 @@
 # weather-mobile
- A mobile application that show the weather, built with React-Native and Expo
+ A mobile application that shows the weather, built with React-Native and Expo.
